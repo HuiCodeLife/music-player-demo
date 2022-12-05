@@ -1,6 +1,6 @@
 # music-player-demo
 
-此为个人学习小demo，仅供个人学习
+此为个人学习小demo，仅供个人学习参考
 
 感谢[网易云音乐api](https://github.com/Binaryify/NeteaseCloudMusicApi)开源项目
 

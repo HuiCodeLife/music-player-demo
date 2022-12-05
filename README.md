@@ -2,9 +2,9 @@
 
 此为个人学习小demo，仅供个人学习
 
-感谢[网易云音乐api]()https://github.com/Binaryify/NeteaseCloudMusicApi开源项目
+感谢[网易云音乐api](https://github.com/Binaryify/NeteaseCloudMusicApi)开源项目
 
-感谢https://music.cyrilstudio.top/提供api测试服务接口
+感谢[cyrilstudio](https://music.cyrilstudio.top/)提供api测试服务接口
 
 效果截图
 

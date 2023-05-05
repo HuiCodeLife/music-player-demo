@@ -4,8 +4,6 @@
 
 感谢[网易云音乐api](https://github.com/Binaryify/NeteaseCloudMusicApi)开源项目
 
-感谢[cyrilstudio](https://music.cyrilstudio.top/)提供api测试服务接口
-
 效果截图
 
 ![image-20221205164246325](https://gitee.com/Lin-ChangHui/picture-bed/raw/master/images/202212051642493.png)
